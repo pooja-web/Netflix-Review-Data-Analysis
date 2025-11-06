@@ -1,0 +1,11 @@
+ReviewID,UserName,MovieTitle,Rating,ReviewText,Date,ReviewText_Cleaned,ReviewText_English,Sentiment_reviewtext,RatingVsSentimentAnalysis,Entities
+1,JohnDoe,Stranger Things,5,Amazing show! Great acting and story.,2025-09-01,Amazing show Great acting and story,Amazing show! Great acting and story.,Positive,Consistent,Stranger Things
+2,PriyaK,Money Heist,4,"Loved the thrill, but ending was a bit rushed.",2025-09-02,Loved the thrill but ending was a bit rushed,"Loved the thrill, but ending was a bit rushed.",Positive,Consistent,Money Heist
+3,Alex123,The Crown,3,"Good performance, but a bit slow for me.",2025-09-03,Good performance but a bit slow for me,"Good performance, but a bit slow for me.",Positive,Neutral,The Crown
+4,Sneha89,Narcos,5,Outstanding! Every episode kept me hooked.,2025-09-04,Outstanding Every episode kept me hooked,Outstanding! Every episode kept me hooked.,Positive,Consistent,Narcos
+5,RahulM,Dark,4,Mind-blowing but confusing at times.,2025-09-05,Mindblowing but confusing at times,Mind-blowing but confusing at times.,Negative,Mismatch,Dark
+6,EmilyW,Breaking Bad,1,The movie is very good.,2025-09-06,The movie is very good,The movie is very good.,Positive,Mismatch,Breaking Bad
+7,Karan77,Squid Game,4,"Unique and intense concept, but violent.",2025-09-07,Unique and intense concept but violent,"Unique and intense concept, but violent.",Negative,Mismatch,Squid Game
+8,AnanyaR,The Witcher,3,"Great visuals, story was okay.",2025-09-08,Great visuals story was okay,"Great visuals, story was okay.",Positive,Neutral,The Witcher
+10,Gahan,The Cat,4,the great movie,2025-09-10,the great movie,the great movie,Positive,Consistent,The Cat
+11,hari,Fighters,3,फिल्म अच्छी है,2025-09-11,फलम अचछ ह,the movie is good,Positive,Neutral,Fighters
